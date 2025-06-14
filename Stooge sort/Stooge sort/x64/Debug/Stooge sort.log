@@ -1,0 +1,4 @@
+﻿  StoogeSort.cpp
+C:\Users\Пользователь\C++ Projects\Stooge sort\Stooge sort\StoogeSort.cpp(29,13): error C2017: недопустимая escape-последовательность
+C:\Users\Пользователь\C++ Projects\Stooge sort\Stooge sort\StoogeSort.cpp(29,14): error C2065: n: необъявленный идентификатор
+C:\Users\Пользователь\C++ Projects\Stooge sort\Stooge sort\StoogeSort.cpp(31,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
